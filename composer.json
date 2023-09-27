@@ -1,0 +1,8 @@
+{
+    "name": "drozzi-pro/simple-custom-post-order",
+    "type": "wordpress-plugin",
+    "homepage": "https://github.com/drozzi-pro/simple-custom-post-order",
+    "require": {
+      "php": ">=7.4"
+    }
+}
